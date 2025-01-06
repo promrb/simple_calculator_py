@@ -1,2 +1,6 @@
-# simple_calculator_py
-Sample calculator in Python
+# simple calculator python
+This calculator will perform following operations:
+Add
+Subtract
+Multiplication
+Division 
